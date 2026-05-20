@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="1000" alt="Linha">
 
-# Hi there, I'm Bruno Vargas <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" alt="Acenar">
+# Hi there, I'm Bruno Vargas <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 
 <img align="right" src="https://github.com/BrunoVarg/BrunoVarg/blob/master/gatinho.gif" width="200" alt="Gatinho codando"> 
 
